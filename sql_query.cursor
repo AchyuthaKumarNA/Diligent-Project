@@ -1,0 +1,9 @@
+Write an SQL query joining customers, orders, and products tables to produce:
+- customer_id and customer_name
+- product_id and product_name
+- order_date
+- total_price
+
+Only include orders from the last 30 days.
+Sort by order_date DESC.
+Save the SQL query in a file named report.sql.

@@ -1,0 +1,10 @@
+Rewrite and update README.md to include:
+
+- Project title: Diligent Project (Cursor A-SDLC Assignment)
+- Summary of 4 assignment requirements and completion
+- List and purpose of each file generated
+- Steps to ingest database and generate report output
+- Mention that the SQL result is saved into report_output table inside ecom.db
+- Conclusion about AI-assisted development
+
+Modify the existing README.md in place.

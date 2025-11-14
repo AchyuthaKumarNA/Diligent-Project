@@ -1,0 +1,9 @@
+Write a Python script that:
+1. Connects to ecom.db
+2. Reads the SQL query from report.sql
+3. Executes that query
+4. Creates a table named report_output and stores the query result there
+5. If report_output already exists, drop it and recreate it
+6. Print how many rows were inserted
+
+Save the script as run_report_to_db.py in the workspace.

@@ -1,0 +1,9 @@
+Generate 5 realistic e-commerce CSV files and save them in this workspace:
+
+1. products.csv (ID, name, category, price, stock_quantity)
+2. customers.csv (ID, name, email, registration_date)
+3. orders.csv (ID, customer_id, product_id, order_date, quantity, total_price)
+4. reviews.csv (ID, product_id, customer_id, rating, review_text, review_date)
+5. categories.csv (ID, category_name, parent_category_id)
+
+Ensure that IDs match between tables and values look realistic.

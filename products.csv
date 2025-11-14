@@ -1,0 +1,21 @@
+ID,name,category,price,stock_quantity
+1,Wireless Mouse,2,24.99,150
+2,Mechanical Keyboard,2,89.99,75
+3,27-inch Monitor,2,199.99,30
+4,Gaming Laptop,2,1299.00,12
+5,Smartphone X200,3,799.00,50
+6,Noise Cancelling Headphones,1,149.50,40
+7,Bluetooth Speaker,1,59.99,60
+8,USB-C Charger 65W,1,29.99,200
+9,Air Fryer 4L,5,99.95,45
+10,Vacuum Cleaner,5,159.99,25
+11,Yoga Mat,7,29.00,120
+12,Treadmill Basic,7,699.00,8
+13,Running Shoes,6,119.99,65
+14,Electric Toothbrush,8,49.99,80
+15,Face Moisturizer 50ml,8,24.50,150
+16,4K Action Camera,1,249.00,20
+17,Smartwatch Series 5,3,299.99,35
+18,Coffee Maker 12cup,4,89.00,40
+19,Blender Pro,4,129.00,25
+20,External SSD 1TB,2,139.99,70

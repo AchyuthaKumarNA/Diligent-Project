@@ -1,0 +1,31 @@
+ID,product_id,customer_id,rating,review_text,review_date
+1,1,2,5,"Great mouse for everyday use; responsive and compact.",2023-02-11
+2,2,12,4,"Solid keyboard with satisfying keys; a bit loud.",2023-06-22
+3,5,3,5,"Amazing phone — fast and excellent camera.",2024-04-20
+4,9,8,4,"Air fryer cooks evenly; wish the basket was larger.",2022-06-01
+5,4,10,5,"Powerful laptop, handles games and work easily.",2024-02-10
+6,7,5,4,"Good sound for the price; portable and solid bass.",2023-08-05
+7,11,7,5,"Comfortable mat and non-slip surface.",2024-10-07
+8,12,6,3,"Treadmill is functional but assembly was tricky.",2022-03-05
+9,14,9,4,"Toothbrush cleans well and battery lasts long.",2023-10-15
+10,15,11,5,"Lightweight moisturizer, absorbs quickly.",2022-09-01
+11,3,1,4,"Nice monitor for work; color calibration needed.",2022-09-22
+12,20,13,5,"Fast external SSD, transfers are quick.",2024-08-15
+13,8,1,4,"Charger is compact and charges quickly.",2022-09-21
+14,6,5,4,"Headphones block noise well and are comfortable.",2024-11-05
+15,18,15,5,"Makes great coffee, easy to clean.",2025-03-12
+16,10,4,3,"Decent vacuum but suction could be stronger.",2022-12-10
+17,13,14,4,"Good running shoes; comfortable on long runs.",2021-12-15
+18,16,2,5,"Excellent camera for outdoor adventures.",2023-02-01
+19,17,3,4,"Smartwatch has useful features and good battery.",2024-04-10
+20,19,14,4,"Blender works well for smoothies; sturdy build.",2022-04-23
+21,1,1,5,"Compact and accurate.",2024-05-13
+22,2,12,4,"Great tactile feel.",2023-12-20
+23,5,3,5,"Battery lasts all day and camera is superb.",2023-01-06
+24,11,11,5,"Perfect thickness and grip.",2023-03-01
+25,7,5,4,"Nice sound for small gatherings.",2023-04-18
+26,4,14,5,"Blazing performance for gaming.",2022-01-13
+27,20,13,5,"Reliable and fast SSD.",2022-07-10
+28,9,2,4,"Crispy results every time.",2024-05-14
+29,15,15,3,"Good moisturizer but slightly greasy.",2023-11-09
+30,14,9,4,"Brush cleans well and is gentle on gums.",2024-09-30

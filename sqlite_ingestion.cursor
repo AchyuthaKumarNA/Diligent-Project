@@ -1,0 +1,11 @@
+Write a Python script that ingests the 5 e-commerce CSV files
+into an SQLite database named ecom.db.
+
+Requirements:
+1. Create tables matching each CSV
+2. Enable foreign key relationships
+3. Use INSERT OR IGNORE to avoid duplicates
+4. Print how many rows were inserted per table
+5. Close the database connection at the end
+
+Save the script as insert_data.py in the workspace.
